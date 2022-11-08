@@ -1,1 +1,1 @@
-# LaboratoriumPyton
+# LaboratoriumProgramowanie
